@@ -7,7 +7,7 @@
 
 <h2> My tech stack 📚 </h2>
 
-## Data Analysis
+### Data Analysis
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
