@@ -20,20 +20,20 @@ I am Scott, from 🇰🇷, currently living in 🇺🇸.
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=plastic&logo=Tableau&logoColor=white)
 
 ### Programming Language
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=plastic&logo=Dart&logoColor=ffffff)
 
 ### Database Managment
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=ffffff)
 
 ### App Development
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=plastic&logo=Flutter&logoColor=ffffff)
 
 ### Big Data
 ![ApacheHadoop
-](https://img.shields.io/badge/-ApacheHadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=ffffff)
-![Spark](https://img.shields.io/badge/-Spark-02569B?style=for-the-badge&logo=Spark&logoColor=ffffff)
+](https://img.shields.io/badge/-ApacheHadoop-66CCFF?style=plastic&logo=ApacheHadoop&logoColor=ffffff)
+![Spark](https://img.shields.io/badge/-Spark-02569B?style=plastic&logo=Spark&logoColor=ffffff)
 
 <!--
 **ssh1419/ssh1419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
