@@ -17,7 +17,7 @@ I am Scott, from 🇰🇷, currently living in 🇺🇸.
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### Data Visualizatioin
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=plastic&logo=Tableau&logoColor=white)
 
 ### Programming Language
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
