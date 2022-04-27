@@ -1,7 +1,7 @@
 # Hi there 👋
 
 Welcome to my page!
-I am Scott, from 🇰🇷
+I am Scott, from 🇰🇷, currently living in 🇺🇸.
 
 <h2> My tech stack 📚 </h2>
 
