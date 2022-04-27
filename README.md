@@ -32,9 +32,7 @@ I am Scott, from 🇰🇷, currently living in 🇺🇸.
 
 ### Big Data
 ![ApacheHadoop
-](https://img.shields.io/badge/-ApacheHadoop
--66CCFF?style=for-the-badge&logo=ApacheHadoop
-&logoColor=ffffff)
+](https://img.shields.io/badge/-ApacheHadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=ffffff)
 ![Spark](https://img.shields.io/badge/-Spark-02569B?style=for-the-badge&logo=Spark&logoColor=ffffff)
 
 <!--
