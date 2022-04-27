@@ -6,15 +6,15 @@ I am Scott, from 🇰🇷, currently living in 🇺🇸.
 <h2> My tech stack 📚 </h2>
 
 ### Data Analysis
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white)
-![SAS](https://img.shields.io/badge/-SAS-007396?style=for-the-badge&logo=SAS&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-007396?style=for-the-badge&logo=MATLAB&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=plastic&logo=R&logoColor=white)
+![SAS](https://img.shields.io/badge/-SAS-007396?style=plastic&logo=SAS&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-007396?style=plastic&logo=MATLAB&logoColor=white)
 
 ### Machine Learning / Deep Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E?style=plastic&logo=logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white)
 
 ### Data Visualizatioin
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=plastic&logo=Tableau&logoColor=white)
