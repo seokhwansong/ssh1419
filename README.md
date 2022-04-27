@@ -30,7 +30,9 @@ I am Scott, from 🇰🇷, currently living in 🇺🇸.
 ### App Development
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=ffffff)
 
-
+### Big Data
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=for-the-badge&logo=Hadoop&logoColor=ffffff)
+![Spark](https://img.shields.io/badge/-Spark-02569B?style=for-the-badge&logo=Spark&logoColor=ffffff)
 
 <!--
 **ssh1419/ssh1419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
