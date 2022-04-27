@@ -31,7 +31,10 @@ I am Scott, from 🇰🇷, currently living in 🇺🇸.
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=ffffff)
 
 ### Big Data
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=for-the-badge&logo=Hadoop&logoColor=ffffff)
+![Apache Hadoop
+](https://img.shields.io/badge/-Apache Hadoop
+-66CCFF?style=for-the-badge&logo=Apache Hadoop
+&logoColor=ffffff)
 ![Spark](https://img.shields.io/badge/-Spark-02569B?style=for-the-badge&logo=Spark&logoColor=ffffff)
 
 <!--
