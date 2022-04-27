@@ -5,7 +5,7 @@ I am Scott, from 🇰🇷, currently living in 🇺🇸.
 
 <h2> My tech stack 📚 </h2>
 
-- Data Analysis
+- Data Analysis\
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=plastic&logo=R&logoColor=white)
 ![SAS](https://img.shields.io/badge/-SAS-007396?style=plastic&logo=SAS&logoColor=white)
