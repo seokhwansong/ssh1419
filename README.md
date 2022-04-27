@@ -1,7 +1,7 @@
 # Hi there 👋
 
 Welcome to my page!
-I am Scott.
+I am Scott, from 🇰🇷
 
 <h2> My tech stack 📚 </h2>
 
