@@ -33,7 +33,7 @@ I am Scott, from 🇰🇷, currently living in 🇺🇸.
 ![ApacheHadoop](https://img.shields.io/badge/-ApacheHadoop-66CCFF?style=plastic&logo=ApacheHadoop&logoColor=ffffff)
 ![Spark](https://img.shields.io/badge/-Spark-02569B?style=plastic&logo=Spark&logoColor=ffffff)
 
-![github stats languages](https://github.com/ssh1419/stats/blob/generated/languages-dark.svg)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=ssh1419&show_icons=true&theme=radical)
 
 <!--
 **ssh1419/ssh1419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
