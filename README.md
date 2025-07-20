@@ -1,49 +1,47 @@
-# Welcome to my page! 👋
+# 👋 Hi there, I'm Seok Hwan (Scott) Song!
 
-I am Scott, from 🇰🇷, currently living in 🇺🇸.
+### 🧠 Ph.D. Candidate | AI Researcher | LLM/MLM Reasoning Specialist  
+📍 Iowa State University | 🧪 NLP • LLMs • Multimodal • Reasoning  
+📧 seokh.song@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/seokhwansong/) | 🖥️ [Portfolio](https://github.com/ssh1419)
 
-<h2> My tech stack 📚 </h2>
+---
 
-- Data Analysis\
-![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=plastic&logo=R&logoColor=white)
-![SAS](https://img.shields.io/badge/-SAS-007396?style=plastic&logo=SAS&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-007396?style=plastic&logo=MATLAB&logoColor=white)
+### 🔬 Current Research
+I'm a Ph.D. candidate in Computer Science, specializing in:
+- **Large Language Models (LLMs)**
+- **Multimodal Language Models (MLMs)**
+- **Quantitative and Commonsense Reasoning**
+- **Prompt Engineering and Evaluation Robustness**
+- **Bias & Fairness in AI**
 
-- Machine Learning / Deep Learning\
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E?style=plastic&logo=logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white)
+🧑‍🔬 My current research focuses on:
+- Understanding how LLMs process irrelevant information in math reasoning tasks.
+- Analyzing how question formats impact LLM reasoning performance.
+- Reducing visual bias in MLMs during chart-to-table tasks.
 
-- Data Visualizatioin\
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=plastic&logo=Tableau&logoColor=white)
+---
 
-- Programming Language\
-![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=plastic&logo=Dart&logoColor=ffffff)
+### 🛠️ Skills & Tools
+**Languages & Frameworks:**  
+`Python`, `R`, `SQL`, `PyTorch`, `Tensorflow`, `Transformers`, `Keras`  
 
-- Database Managment\
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=ffffff)
+**Domains & Topics:**  
+`NLP`, `Multimodal AI`, `RAG`, `Prompt Engineering`, `Evaluation Bias`, `LLM Fine-tuning`, `QA Systems`
 
-- App Development\
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=plastic&logo=Flutter&logoColor=ffffff)
+**Tools & Platforms:**  
+`Git`, `Firebase`, `GCP`, `AWS`, `Hadoop`, `VSCode`, `Flutter`, `MATLAB`
 
-- Big Data\
-![ApacheHadoop](https://img.shields.io/badge/-ApacheHadoop-66CCFF?style=plastic&logo=ApacheHadoop&logoColor=ffffff)
-![Spark](https://img.shields.io/badge/-Spark-02569B?style=plastic&logo=Spark&logoColor=ffffff)
+---
 
-<!--
-**ssh1419/ssh1419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📰 Publications
 
-Here are some ideas to get you started:
+- 🧮 *Prompting Methods on Quantitative Reasoning* — **CIKM 2024**  
+- 🤔 *Evaluation Formats and LLM Performance* — **ACL Findings 2025**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Let's Connect!
+
+- 🧠 Always curious about reasoning, representation, and real-world alignment.
+- 📬 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/seokhwansong/) or open an issue on my GitHub.
+
